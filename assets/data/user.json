@@ -1,0 +1,9 @@
+{
+  "id": "u1",
+  "name": "Andrés",
+  "favorites": ["r1"],
+  "reviews": [
+    { "id":"ru1","restaurantId":"r1","dishId":"d1","rating":5,"text":"Impresionante" }
+  ],
+  "preferences": { "diet":"omnivore", "notifications": true }
+}

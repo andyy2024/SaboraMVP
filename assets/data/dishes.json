@@ -1,0 +1,22 @@
+[
+  {
+    "id": "d1",
+    "restaurantId": "r1",
+    "name": "Ramen Tonkotsu",
+    "price": 12.5,
+    "rating": 4.8,
+    "images": ["https://placehold.co/600x400/jpg?text=Dish+1"],
+    "reviews": [
+      { "id":"rev1", "user":"Ana", "date":"2025-08-12", "rating":5, "comment":"Excelente!" }
+    ],
+    "description":"Caldo rico y concentrado con chashu."
+  },
+  {
+    "id": "d2",
+    "restaurantId": "r1",
+    "name": "Gyozas caseras",
+    "price": 6.5,
+    "rating": 4.4,
+    "images": ["https://placehold.co/600x400/jpg?text=Dish+2"]
+  }
+]

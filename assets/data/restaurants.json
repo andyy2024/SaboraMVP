@@ -1,0 +1,40 @@
+[
+  {
+    "id": "r1",
+    "name": "Ramen & Roots",
+    "rating": 4.6,
+    "cuisine": "Ramen",
+    "price": "$$",
+    "distance_km": 0.4,
+    "address": "Calle Falsa 123",
+    "hours": "11:00 - 22:00",
+    "tags": ["Ramen", "Vegano"],
+    "services": ["Parqueadero", "Pet friendly"],
+    "coords": { "lat": 4.6373, "lng": -74.0836 },
+    "features": ["Vegano", "Pet Friendly", "Wifi"],
+    "images": ["https://placehold.co/600x400/jpg?text=Ramen+%26+Roots","https://placehold.co/600x400/jpg?text=Ramen+%26+Roots2"],
+    "menuCategories": [
+      {
+        "id":"c1",
+        "title":"Ramen",
+        "dishes":["d1","d2"]
+      }
+    ]
+  },
+
+  {
+    "id": "r2",
+    "name": "Verde & Comida",
+    "rating": 4.2,
+    "cuisine": "Vegano",
+    "price": "$$",
+    "distance_km": 1.2,
+    "address": "Av Siempre Viva 45",
+    "hours": "10:00 - 21:00",
+    "coords": { "lat": 4.7109, "lng": -74.0721 },
+    "features": ["Vegano", "Parqueadero"],
+    "images": ["https://placehold.co/600x400/jpg?text=Verde+%26+Comida"],
+    "tags": ["Sushi"],
+    "services": ["WiFi"]
+  }
+]
