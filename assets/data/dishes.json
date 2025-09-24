@@ -11,7 +11,7 @@
         "price": 26900,
         "description": "Rellenas de setas, jengibre, ajonjolí, miríny salsa soya.",
         "tags": [
-          "picante"
+          "vegetales"
         ],
         "rating": 4.8,
         "reviews": [
@@ -22,6 +22,7 @@
         "name": "Pollo",
         "price": 27900,
         "description": "Rellenas de pechuga de pollo, setas, jengibre y ajonjolí.",
+        "tags": [],
         "rating": 4.8,
         "reviews": []
       },
@@ -29,6 +30,7 @@
         "name": "Lomo",
         "price": 30900,
         "description": "Rellenas de lomo de res, setas, jengibre y ajonjolí.",
+        "tags": [],
         "rating": 4.8,
         "reviews": []
       },
@@ -36,6 +38,42 @@
         "name": "Mixtas",
         "price": 32900,
         "description": "2 gyozas de pollo, 2 de lomo y 2 de yasai.",
+        "tags": [],
+        "rating": 4.8,
+        "reviews": []
+      }
+    ]
+  },
+  {
+    "id": "wok-d2",
+    "restaurantId": "wok-1",
+    "name": "Spring rolls",
+    "description": "",
+    "rating": 4.5,
+    "choices": [
+      {
+        "name": "Spring rolls de vegetales",
+        "price": 20900,
+        "description": "(2u) Rellenos de tofu ahumado, vegetales, shitake, pasta vermicelli, salsa soya y aceite de ajonjolí, servidos con salsa agridulce picante",
+        "tags": [
+          "vegetales"
+        ],
+        "rating": 4.8,
+        "reviews": []
+      },
+      {
+        "name": "Thai spring rolls",
+        "price": 20900,
+        "description": "(2u) Rellenos de pechuga de pollo y vegetales, con salsa soya, servidos con salsa agridulce.",
+        "tags": [],
+        "rating": 4.8,
+        "reviews": []
+      },
+      {
+        "name": "Spring rolls de camarón",
+        "price": 21900,
+        "description": "(3u) Rellenos de camarón, cilantro y ajonjolí, servidos con salsa camboyana",
+        "tags": [],
         "rating": 4.8,
         "reviews": []
       }

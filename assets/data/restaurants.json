@@ -51,7 +51,11 @@
       "Entradas",
       "Vegetariano"
     ],
-    "services": ["Wifi", "Pet Frendly", "Parqueadero"],
+    "services": [
+      "Wifi",
+      "Pet Frendly",
+      "Parqueadero"
+    ],
     "coords": {
       "lat": 4.6038472853114945,
       "lng": -74.06716372883562
@@ -78,5 +82,65 @@
         ]
       }
     ]
+  },
+  {
+    "id": "creps-1",
+    "name": "Creps & Waffles",
+    "rating": 4.9,
+    "cuisine": [
+              "Mexicana",
+        "Medio Oriente",
+        "Colombiana"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Av Jiménez de Quesada #4 - 55, Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "martes": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "miércoles": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "jueves": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "viernes": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "sábado": {
+        "open": "8:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "domingo": {
+        "open": "11:45 a.m.",
+        "close": "7:30 p.m."
+      }
+    },
+    "tags": [
+      "crepes",
+      "waffles",
+      "heladeria",
+      "Curries",
+      "Vegetariano"
+    ],
+    "services": [
+      "Wifi",
+      "Pet Frendly",
+      "Parqueadero"
+    ],
+    "coords": {
+      "lat": 4.600698284384137,
+      "lng": -74.07090738044013 
+    },
+    "menuCategories": []
   }
 ]
