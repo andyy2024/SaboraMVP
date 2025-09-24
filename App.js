@@ -6,6 +6,9 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import "./global.css"
 
+import MapScreen from './screens/MapScreen';
+
+
 export default function App() {
   return (
     <SafeAreaProvider>

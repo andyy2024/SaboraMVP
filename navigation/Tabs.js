@@ -15,7 +15,7 @@ export default function Tabs() {
         headerShown: false,
         tabBarShowLabel: false,
         tabBarStyle: 'flex',
-        tabBarActiveTintColor: '#A84A2A',
+        tabBarActiveTintColor: '#E0B0FF',
       })}
     >
       <Tab.Screen 

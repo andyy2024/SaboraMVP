@@ -3,6 +3,7 @@ import { View, Text, TouchableOpacity, ScrollView, Image, FlatList } from 'react
 import CarouselSimple from '../components/CarouselSimple';
 import RatingStars from '../components/RatingStars';
 import { FontAwesome5 } from '@expo/vector-icons';
+import { imageMap } from '../assets/imageMap.mjs';
 
 const restaurants = require('../assets/data/restaurants.json');
 const dishes = require('../assets/data/dishes.json');
@@ -16,7 +17,7 @@ export default function RestaurantScreen({ route, navigation }) {
 
   return (
     <ScrollView className="flex-1 bg-white">
-      <CarouselSimple images={restaurant.images} />
+      <CarouselSimple images={imageMap[restaurant.name].main} />
       <View className="p-4">
         <View className="flex-row justify-between items-start">
           <View style={{ flex: 1 }}>
@@ -33,9 +34,16 @@ export default function RestaurantScreen({ route, navigation }) {
         </View>
 
         <View className="mt-4">
-          <Text className="font-semibold">Características</Text>
+          <Text className="font-semibold">Servicios</Text>
           <View className="flex-row mt-2">
-            {restaurant.features.map(f => <View key={f} className="mr-3 items-center"><Text>{f}</Text></View>)}
+            {restaurant.services.map(f => <View key={f} className="mr-3 items-center"><Text>{f}</Text></View>)}
+          </View>
+        </View>
+
+        <View className="mt-4">
+          <Text className="font-semibold">Tags</Text>
+          <View className="flex-row mt-2">
+            {restaurant.tags.map(f => <View key={f} className="mr-3 items-center"><Text>{f}</Text></View>)}
           </View>
         </View>
 
@@ -43,10 +51,10 @@ export default function RestaurantScreen({ route, navigation }) {
           <Text className="font-semibold text-lg">Lo más popular</Text>
           <FlatList horizontal data={popular} keyExtractor={i => i.id} renderItem={({item}) => (
             <TouchableOpacity onPress={() => navigation.navigate('Dish', { id: item.id })} className="mr-4 mt-3 w-56 bg-white shadow rounded-xl overflow-hidden">
-              <Image source={{ uri: item.images[0] }} className="h-32 w-full" />
+              <Image source={imageMap[restaurant.name].dishes[item.name].main[0]} className="h-32 w-full" />
               <View className="p-2">
                 <Text className="font-semibold">{item.name}</Text>
-                <Text className="text-sm text-gray-500">${item.price}</Text>
+                <Text className="text-sm text-gray-500">uwu</Text>
                 <RatingStars rating={item.rating} size={10} />
               </View>
             </TouchableOpacity>
@@ -56,7 +64,7 @@ export default function RestaurantScreen({ route, navigation }) {
         <View className="mt-6">
           <Text className="font-semibold text-lg">Menú</Text>
           {restaurant.menuCategories?.map(cat => (
-            <View key={cat.id} className="mt-3">
+            <View key={cat.title} className="mt-3">
               <Text className="font-semibold">{cat.title}</Text>
               {cat.dishes.map(did => {
                 const dish = dishes.find(d => d.id === did);
@@ -64,10 +72,10 @@ export default function RestaurantScreen({ route, navigation }) {
                 return (
                   <TouchableOpacity key={did} onPress={() => navigation.navigate('Dish', { id: dish.id })} className="flex-row items-center justify-between mt-2 bg-white p-2 rounded shadow-sm">
                     <View className="flex-row items-center">
-                      <Image source={{ uri: dish.images[0] }} className="h-12 w-12 rounded" />
+                      <Image source={imageMap[restaurant.name].dishes[dish.name].main[0]} className="h-12 w-12 rounded" />
                       <View className="ml-3">
                         <Text className="font-medium">{dish.name}</Text>
-                        <Text className="text-sm text-gray-500">${dish.price}</Text>
+                        <Text className="text-sm text-gray-500">uwu</Text>
                       </View>
                     </View>
                     <RatingStars rating={dish.rating} size={12} />

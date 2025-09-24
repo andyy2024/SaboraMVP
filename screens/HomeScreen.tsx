@@ -7,6 +7,7 @@ import CarouselSimple from '../components/CarouselSimple';
 import FiltersModal from '../components/FiltersModal';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import MapView, { Marker } from 'react-native-maps';
+import MapCard from '../components/MapCard';
 const restaurantsData = require('../assets/data/restaurants.json');
 const dishesData = require('../assets/data/dishes.json');
 
@@ -31,27 +32,7 @@ export default function HomeScreen({ navigation }) {
 
         <View className="mx-4 my-3 rounded-xl overflow-hidden bg-white shadow p-3">
           <View className="h-40">
-            <MapView
-              style={{ flex: 1, marginHorizontal: 5, borderRadius: 12 }}
-              initialRegion={{
-                latitude: 4.7110,
-                longitude: -74.0721,
-                latitudeDelta: 0.1,
-                longitudeDelta: 0.1,
-              }}
-            >
-              {restaurantsData.map((r) => (
-                <Marker
-                  key={r.id}
-                  coordinate={{ latitude: r.coords.lat, longitude: r.coords.lng }}
-                  title={r.name}
-                  description={`${r.rating} · ${r.price}`}
-                  onPress={() => {
-                    navigation.navigate('Restaurant', { id: r.id });
-                  }}
-                />
-              ))}
-            </MapView>
+            <MapCard navigation={navigation}></MapCard>
           </View>
           <TouchableOpacity onPress={() => navigation.navigate('MapTab')} className="mt-3 bg-white border border-gray-300 rounded px-4 py-2 self-end">
             <Text>Ver mapa completo</Text>

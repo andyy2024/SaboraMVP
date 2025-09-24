@@ -1,22 +1,44 @@
 [
   {
-    "id": "d1",
-    "restaurantId": "r1",
-    "name": "Ramen Tonkotsu",
-    "price": 12.5,
-    "rating": 4.8,
-    "images": ["https://placehold.co/600x400/jpg?text=Dish+1"],
-    "reviews": [
-      { "id":"rev1", "user":"Ana", "date":"2025-08-12", "rating":5, "comment":"Excelente!" }
-    ],
-    "description":"Caldo rico y concentrado con chashu."
-  },
-  {
-    "id": "d2",
-    "restaurantId": "r1",
-    "name": "Gyozas caseras",
-    "price": 6.5,
-    "rating": 4.4,
-    "images": ["https://placehold.co/600x400/jpg?text=Dish+2"]
+    "id": "wok-d1",
+    "restaurantId": "wok-1",
+    "name": "Gyozas",
+    "description": "Estilo de empanadas chinas selladas y cocinadas al vapor, servidas con una infusión de salsa soya y aceite de ajonjolí.",
+    "rating": 4.5,
+    "choices": [
+      {
+        "name": "Yasai",
+        "price": 26900,
+        "description": "Rellenas de setas, jengibre, ajonjolí, miríny salsa soya.",
+        "tags": [
+          "picante"
+        ],
+        "rating": 4.8,
+        "reviews": [
+          "rev-1"
+        ]
+      },
+      {
+        "name": "Pollo",
+        "price": 27900,
+        "description": "Rellenas de pechuga de pollo, setas, jengibre y ajonjolí.",
+        "rating": 4.8,
+        "reviews": []
+      },
+      {
+        "name": "Lomo",
+        "price": 30900,
+        "description": "Rellenas de lomo de res, setas, jengibre y ajonjolí.",
+        "rating": 4.8,
+        "reviews": []
+      },
+      {
+        "name": "Mixtas",
+        "price": 32900,
+        "description": "2 gyozas de pollo, 2 de lomo y 2 de yasai.",
+        "rating": 4.8,
+        "reviews": []
+      }
+    ]
   }
 ]

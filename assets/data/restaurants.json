@@ -1,40 +1,82 @@
 [
   {
-    "id": "r1",
-    "name": "Ramen & Roots",
-    "rating": 4.6,
-    "cuisine": "Ramen",
+    "id": "wok-1",
+    "name": "WOK",
+    "rating": 4.9,
+    "cuisine": [
+      "Asiática",
+      "Japonesa",
+      "Tailandesa",
+      "Vietnamita"
+    ],
     "price": "$$",
-    "distance_km": 0.4,
-    "address": "Calle Falsa 123",
-    "hours": "11:00 - 22:00",
-    "tags": ["Ramen", "Vegano"],
-    "services": ["Parqueadero", "Pet friendly"],
-    "coords": { "lat": 4.6373, "lng": -74.0836 },
-    "features": ["Vegano", "Pet Friendly", "Wifi"],
-    "images": ["https://placehold.co/600x400/jpg?text=Ramen+%26+Roots","https://placehold.co/600x400/jpg?text=Ramen+%26+Roots2"],
+    "distance_km": "4",
+    "address": "Ac. 19 # 2A -1 0 Local 205 - 206 Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "martes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "miércoles": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "jueves": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "viernes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "sábado": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "domingo": {
+        "open": "11:30 a.m.",
+        "close": "7:00 p.m."
+      }
+    },
+    "tags": [
+      "Sushi",
+      "Noodles",
+      "Ramen",
+      "Arroces",
+      "Curries",
+      "Entradas",
+      "Vegetariano"
+    ],
+    "services": ["Wifi", "Pet Frendly", "Parqueadero"],
+    "coords": {
+      "lat": 4.6038472853114945,
+      "lng": -74.06716372883562
+    },
     "menuCategories": [
       {
-        "id":"c1",
-        "title":"Ramen",
-        "dishes":["d1","d2"]
+        "title": "Entradas y platos para compartir",
+        "dishes": [
+          "wok-d1",
+          "wok-d2",
+          "wok-d3",
+          "wok-d4",
+          "wok-d5",
+          "wok-d6",
+          "wok-d7",
+          "wok-d8",
+          "wok-d9",
+          "wok-d10",
+          "wok-d11",
+          "wok-d12",
+          "wok-d13",
+          "wok-d14",
+          "wok-d15"
+        ]
       }
     ]
-  },
-
-  {
-    "id": "r2",
-    "name": "Verde & Comida",
-    "rating": 4.2,
-    "cuisine": "Vegano",
-    "price": "$$",
-    "distance_km": 1.2,
-    "address": "Av Siempre Viva 45",
-    "hours": "10:00 - 21:00",
-    "coords": { "lat": 4.7109, "lng": -74.0721 },
-    "features": ["Vegano", "Parqueadero"],
-    "images": ["https://placehold.co/600x400/jpg?text=Verde+%26+Comida"],
-    "tags": ["Sushi"],
-    "services": ["WiFi"]
   }
 ]

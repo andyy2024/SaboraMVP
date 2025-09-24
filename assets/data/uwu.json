@@ -1,0 +1,55 @@
+[
+  {
+    "id": "wok-1",
+    "name": "WOK",
+    "rating": null,
+    "cuisine": ["Asiática", "Japonesa", "Tailandesa", "Vietnamita"],
+    "price": "$$",
+    "distance_km": null,
+    "address": null,
+    "hours": null,
+    "tags": ["Sushi", "Noodles", "Ramen", "Arroces", "Curries", "Entradas", "Vegetariano"],
+    "services": [],
+    "coords": { "lat": null, "lng": null },
+    "menuCategories": [
+      {
+        "title": "Sudeste Asiático",
+        "dishes": ["wok-d69","wok-82"]
+      },
+      {
+        "title": "Wok ramen",
+        "dishes": ["wok-d83","wok-87"]
+      },
+      {
+        "title": "Sopas",
+        "dishes": ["wok-d88","wok-93"]
+      },
+      {
+        "title": "Noodles",
+        "dishes": ["wok-d94","wok-109"]
+      },
+      {
+        "title": "Curries",
+        "dishes": ["wok-d116","wok-119"]
+      },
+      {
+        "title": "Pescados Wok",
+        "dishes": ["wok-d110","wok-115"]
+      },
+
+      {
+        "title": "Nigiris y sashimis",
+        "dishes": ["wok-d120","wok-133"]
+      },
+      {
+        "title": "Makis",
+        "dishes": ["wok-d134","wok-157"]
+      },
+      {
+        "title": "Nigiris de vegetales",
+        "dishes": ["wok-d134","wok-157"]
+      },
+      
+    ]
+  }
+]

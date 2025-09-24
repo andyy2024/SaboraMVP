@@ -9,7 +9,7 @@ export default function CarouselSimple({ images = [] }) {
   return (
     <ScrollView horizontal pagingEnabled showsHorizontalScrollIndicator={false}>
       {images.map((src, idx) => (
-        <Image key={idx} source={{ uri: src }} style={{ width, height: 240 }} />
+        <Image key={idx} source={src} style={{ width, height: 240 }} />
       ))}
     </ScrollView>
   );
