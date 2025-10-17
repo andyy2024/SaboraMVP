@@ -100,7 +100,7 @@ export default function RestaurantScreen({ route, navigation }) {
       </View>
 
       {/* FAB */}
-      <TouchableOpacity onPress={() => {}} className="absolute bottom-6 right-6 bg-green-600 p-4 rounded-full shadow-lg">
+      <TouchableOpacity onPress={() => {navigation.navigate('ReviewForm', { id })}} className="absolute bottom-6 right-6 bg-green-600 p-4 rounded-full shadow-lg">
         <FontAwesome5 name="pen" color="#fff" />
       </TouchableOpacity>
     </ScrollView>

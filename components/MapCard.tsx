@@ -9,7 +9,7 @@ export default function MapCard({navigation}) {
 
   return (
       <MapView
-        style={{ flex: 1, marginHorizontal: 12, borderRadius: 12 }}
+        style={{ flex: 1, marginHorizontal: 0, borderRadius: 0 }}
         initialRegion={{
           latitude: 4.602155855717159,
           longitude: -74.06640679410934,

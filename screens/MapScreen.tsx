@@ -11,7 +11,7 @@ export default function MapScreen({ navigation }) {
   const insets = useSafeAreaInsets();
 
   return (
-    <View style={{ flex: 1, paddingTop: insets.top + 8, paddingBottom: 10 }}>
+    <View style={{ flex: 1, paddingTop: 0, paddingBottom: 0 }}>
       <MapCard navigation={navigation}></MapCard>
     </View>
   );

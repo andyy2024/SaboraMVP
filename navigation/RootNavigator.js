@@ -4,6 +4,7 @@ import Tabs from './Tabs';
 import RestaurantScreen from '../screens/RestaurantScreen';
 import DishScreen from '../screens/DishScreen';
 import MapScreen from '../screens/MapScreen';
+import ReviewFormScreen from '../screens/ReviewFormScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -14,6 +15,8 @@ export default function RootNavigator() {
       <Stack.Screen name="Restaurant" component={RestaurantScreen} options={{ title: 'Restaurante' }} />
       <Stack.Screen name="Dish" component={DishScreen} options={{ title: 'Plato' }} />
       <Stack.Screen name="FullMap" component={MapScreen} options={{ title: 'Mapa' }} />
+      <Stack.Screen name="ReviewForm" component={ReviewFormScreen} />
+
     </Stack.Navigator>
   );
 }
