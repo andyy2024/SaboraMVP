@@ -203,5 +203,482 @@
         ]
       }
     ]
-  }
+  },
+
+  {
+    "id": "bowlsbistro-1",
+    "name": "Bowls Bistro",
+    "rating": 4.6,
+    "cuisine": [
+        "Fusión",
+        "Saludable",
+        "Venezolana"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cl 22 #1-90, este, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Bowls",
+        "Arepas",
+        "Almuerzo",
+        "Comida Rápida"
+    ],
+    "services": [
+        "Para llevar",
+        "Mesas al aire libre"
+    ],
+    "coords": {
+        "lat": 4.603598945218636,
+        "lng": -74.06469194266042
+    },
+    "menuCategories": [
+        {
+            "title": "Bowls Personalizados",
+            "dishes": [
+                "bowls-d1",
+                "bowls-d2"
+            ]
+        },
+        {
+            "title": "Bowls del Día",
+            "dishes": [
+                "bowls-d3",
+                "bowls-d4",
+                "bowls-d5",
+                "bowls-d6",
+                "bowls-d7"
+            ]
+        },
+        {
+            "title": "Arepas Gourmet",
+            "dishes": [
+                "arepa-d1",
+                "arepa-d2",
+                "arepa-d3",
+                "arepa-d4",
+                "arepa-d5",
+                "arepa-d6",
+                "arepa-d7",
+                "arepa-d8",
+                "arepa-d9"
+            ]
+        }
+    ]
+  },
+
+  {
+    "id": "hotdogs-1",
+    "name": "Hot-Dogs",
+    "rating": 4.1,
+    "cuisine": [
+        "Comida Rápida",
+        "Americana"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "# Este-44 a Este-82, Cra 1 E, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Perros Calientes",
+        "Hamburguesas",
+        "Papas Fritas",
+        "BBQ"
+    ],
+    "services": [
+        "Para llevar",
+        "Domicilios"
+    ],
+    "coords": {
+        "lat": 4.603542870683362,
+        "lng": -74.06482045281021
+    },
+    "menuCategories": [
+        {
+            "title": "Perros Calientes Especiales",
+            "dishes": [
+                "hd-d1",
+                "hd-d2",
+                "hd-d3",
+                "hd-d4",
+                "hd-d5",
+                "hd-d6",
+                "hd-d7"
+            ]
+        },
+        {
+            "title": "Hamburguesas Clásicas y Premium",
+            "dishes": [
+                "hd-d8",
+                "hd-d9",
+                "hd-d10",
+                "hd-d11",
+                "hd-d12",
+                "hd-d13",
+                "hd-d14",
+                "hd-d15"
+            ]
+        },
+        {
+            "title": "Chorizos, Salchipapas y Otros",
+            "dishes": [
+                "hd-d16",
+                "hd-d17",
+                "hd-d18",
+                "hd-d19",
+                "hd-d20",
+                "hd-d21",
+                "hd-d22",
+                "hd-d23"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "oneburrito-1",
+    "name": "One Burrito",
+    "rating": 4.5,
+    "cuisine": [
+        "Mexicana",
+        "Tex-Mex",
+        "Comida Rápida"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "calle 20 #1-32 este, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Burritos",
+        "Tacos",
+        "Nachos",
+        "Quesadillas",
+        "Combos"
+    ],
+    "services": [
+        "Domicilios",
+        "Happy Hour"
+    ],
+    "coords": {
+        "lat": 4.603561616686363,
+        "lng": -74.06485397861603
+    },
+    "menuCategories": [
+        {
+            "title": "Especialidades de la Casa",
+            "dishes": [
+                "ob-d1",
+                "ob-d2",
+                "ob-d3",
+                "ob-d4"
+            ]
+        },
+        {
+            "title": "Opciones de Proteína y Base",
+            "dishes": [
+                "ob-d5",
+                "ob-d6",
+                "ob-d7",
+                "ob-d8",
+                "ob-d9",
+                "ob-d10"
+            ]
+        },
+        {
+            "title": "Salsas y Toppings",
+            "dishes": [
+                "ob-d11",
+                "ob-d12",
+                "ob-d13",
+                "ob-d14",
+                "ob-d15",
+                "ob-d16",
+                "ob-d17",
+                "ob-d18"
+            ]
+        },
+        {
+            "title": "Combos y Eventos",
+            "dishes": [
+                "ob-d19",
+                "ob-d20",
+                "ob-d21"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "burgerchips-1",
+    "name": "Burger & Chips",
+    "rating": 4.3,
+    "cuisine": [
+        "Comida Rápida",
+        "Hamburguesas",
+        "Americana"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "1 Este1 Dg. 20A, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Hamburguesas",
+        "Papas",
+        "Desayunos",
+        "Promociones"
+    ],
+    "services": [
+        "Para llevar",
+        "Mesas al aire libre"
+    ],
+    "coords": {
+        "lat": 4.603535209610998,
+        "lng": -74.06532064768751
+    },
+    "menuCategories": [
+        {
+            "title": "Hamburguesas Clásicas",
+            "dishes": [
+                "bc-d1",
+                "bc-d2",
+                "bc-d3",
+                "bc-d4"
+            ]
+        },
+        {
+            "title": "Promociones y Combos",
+            "dishes": [
+                "bc-d5",
+                "bc-d6"
+            ]
+        },
+        {
+            "title": "Desayunos y Frutería",
+            "dishes": [
+                "bc-d7",
+                "bc-d8",
+                "bc-d9"
+            ]
+        },
+        {
+            "title": "Adicionales y Snacks",
+            "dishes": [
+                "bc-d10",
+                "bc-d11",
+                "bc-d12"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "lalibre-1",
+    "name": "La Liebre Burger",
+    "rating": 4.7,
+    "cuisine": [
+        "Hamburguesas",
+        "Americana",
+        "Casual"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Dg. 20A #0-54 Local 3, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Hamburguesas",
+        "Desayunos",
+        "Vegetariano",
+        "Papas",
+        "Entradas"
+    ],
+    "services": [
+        "Pet Friendly",
+        "Comida para llevar"
+    ],
+    "coords": {
+        "lat": 4.60350646888451,
+        "lng": -74.06563044282143
+    },
+    "menuCategories": [
+        {
+            "title": "Hamburguesas de Res",
+            "dishes": [
+                "llb-d1",
+                "llb-d2",
+                "llb-d3"
+            ]
+        },
+        {
+            "title": "Hamburguesas Especiales (Pollo y Veg)",
+            "dishes": [
+                "llb-d4",
+                "llb-d5",
+                "llb-d6"
+            ]
+        },
+        {
+            "title": "Breakfast (Desayunos)",
+            "dishes": [
+                "llb-d7",
+                "llb-d8",
+                "llb-d9",
+                "llb-d10"
+            ]
+        },
+        {
+            "title": "Adicionales y Papas",
+            "dishes": [
+                "llb-d11",
+                "llb-d12",
+                "llb-d13",
+                "llb-d14"
+            ]
+        }
+    ]
+}
 ]
