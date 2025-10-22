@@ -88,9 +88,9 @@
     "name": "Creps & Waffles",
     "rating": 4.9,
     "cuisine": [
-              "Mexicana",
-        "Medio Oriente",
-        "Colombiana"
+      "Mexicana",
+      "Medio Oriente",
+      "Colombiana"
     ],
     "price": "$$",
     "distance_km": "4",
@@ -139,8 +139,69 @@
     ],
     "coords": {
       "lat": 4.600698284384137,
-      "lng": -74.07090738044013 
+      "lng": -74.07090738044013
     },
     "menuCategories": []
+  },
+  {
+    "id": "saudade-empanadas-1",
+    "name": "Saudade Empanadas",
+    "rating": 4.9,
+    "cuisine": [
+      "Comida Rapida"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cl. 21 #3-25, Este, Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "martes": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "miércoles": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "jueves": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "viernes": {
+        "open": "11:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "sábado": {
+        "open": "8:45 a.m.",
+        "close": "8:30 p.m."
+      },
+      "domingo": {
+        "open": "11:45 a.m.",
+        "close": "7:30 p.m."
+      }
+    },
+    "tags": [
+      "empanadas"
+    ],
+    "services": [
+      "mesas"
+    ],
+    "coords": {
+      "lat": 4.602749372651559,
+      "lng": -74.06418141709727
+    },
+    "menuCategories": [
+      {
+        "title": "Empandas",
+        "dishes":[
+          "emp-1",
+          "emp-2"
+
+        ]
+      }
+    ]
   }
 ]

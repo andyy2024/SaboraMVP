@@ -3,24 +3,18 @@
 export const imageMap = {
   "Creps & Waffles": {
     "dishes": {},
-    "main": [require('../assets/images/Creps & Waffles/main.jpg')],
-    "pin": require('../assets/images/Creps & Waffles/pin.webp')
+    "main": [require('../assets/images/creps & waffles/main.jpg')],
+    "pin": require('../assets/images/creps & waffles/pin.webp')
   },
   "WOK": {
     "dishes": {
-      "Gyozas": {
-        "main":[require('../assets/images/WOK/dishes/Gyozas/main.png')],
-        "Yasai": [""],
-        "Pollo": [""],
-        "Lomo":[""],
-        "Mixtas":[""]
-      },
-      "Spring rolls": { 
-        "main": [require('../assets/images/WOK/dishes/Spring rolls/main.png')],
-        "Spring rolls de vegetales": [""],
-        "Thai spring rolls": [""],
-        "Spring rolls de camarón":[""]
-      }
+      "Gyozas Yasai": [require('../assets/images/WOK/dishes/Gyozas/main.png')],
+      "Gyozas Pollo": [require('../assets/images/WOK/dishes/Gyozas/main.png')],
+      "Gyozas Lomo": [require('../assets/images/WOK/dishes/Gyozas/main.png')],
+      "Gyozas Mixtas": [require('../assets/images/WOK/dishes/Gyozas/main.png')],
+      "Spring rolls de vegetales": [require('../assets/images/WOK/dishes/Spring rolls/main.png')],
+      "Thai spring rolls": [require('../assets/images/WOK/dishes/Spring rolls/main.png')],
+      "Spring rolls de camarón": [require('../assets/images/WOK/dishes/Spring rolls/main.png')],
     },
     "main": [require('../assets/images/WOK/main.jpg')],
     "pin": require('../assets/images/WOK/pin.png'),

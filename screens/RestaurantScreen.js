@@ -51,7 +51,7 @@ export default function RestaurantScreen({ route, navigation }) {
           <Text className="font-semibold text-lg">Lo más popular</Text>
           <FlatList horizontal data={popular} keyExtractor={i => i.id} renderItem={({item}) => (
             <TouchableOpacity onPress={() => navigation.navigate('Dish', { id: item.id })} className="mr-4 mt-3 w-56 bg-white shadow rounded-xl overflow-hidden">
-              <Image source={imageMap[restaurant.name].dishes[item.name].main[0]} className="h-32 w-full" />
+              <Image source={imageMap[restaurant.name].dishes[item.name][0]} className="h-32 w-full" />
               <View className="p-2">
                 <Text className="font-semibold">{item.name}</Text>
                 <Text className="text-sm text-gray-500">uwu</Text>
@@ -66,13 +66,13 @@ export default function RestaurantScreen({ route, navigation }) {
           {restaurant.menuCategories?.map(cat => (
             <View key={cat.title} className="mt-3">
               <Text className="font-semibold">{cat.title}</Text>
-              {cat.dishes.map(did => {
+              {cat.dishes?.map(did => {
                 const dish = dishes.find(d => d.id === did);
                 if (!dish) return null;
                 return (
                   <TouchableOpacity key={did} onPress={() => navigation.navigate('Dish', { id: dish.id })} className="flex-row items-center justify-between mt-2 bg-white p-2 rounded shadow-sm">
                     <View className="flex-row items-center">
-                      <Image source={imageMap[restaurant.name].dishes[dish.name].main[0]} className="h-12 w-12 rounded" />
+                      <Image source={imageMap[restaurant.name].dishes[dish.name][0]} className="h-12 w-12 rounded" />
                       <View className="ml-3">
                         <Text className="font-medium">{dish.name}</Text>
                         <Text className="text-sm text-gray-500">uwu</Text>
