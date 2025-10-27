@@ -680,5 +680,3596 @@
             ]
         }
     ]
-}
+},
+
+{
+    "id": "subway-2",
+    "name": "Subway",
+    "rating": 3.9,
+    "cuisine": [
+        "Sandwiches",
+        "Americana",
+        "Comida Rápida"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Dg. 20A #0-54 Local 3, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Subway Series",
+        "Sandwiches",
+        "Combos",
+        "Personalizado"
+    ],
+    "services": [
+        "Para llevar",
+        "Domicilios",
+        "Promociones"
+    ],
+    "coords": {
+        "lat": 4.603369015303476,
+        "lng": -74.0658185170535
+    },
+    "menuCategories": [
+        {
+            "title": "Subway Series Exclusivos",
+            "dishes": [
+                "sub2-d1",
+                "sub2-d2",
+                "sub2-d3",
+                "sub2-d4",
+                "sub2-d5",
+                "sub2-d6"
+            ]
+        },
+        {
+            "title": "Clásicos a tu Antojo (Proteínas)",
+            "dishes": [
+                "sub2-d7",
+                "sub2-d8",
+                "sub2-d9",
+                "sub2-d10",
+                "sub2-d11",
+                "sub2-d12",
+                "sub2-d13",
+                "sub2-d14"
+            ]
+        },
+        {
+            "title": "Combos y Acompañamientos",
+            "dishes": [
+                "sub2-d15",
+                "sub2-d16",
+                "sub2-d17",
+                "sub2-d18"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "elgocepagano-1",
+    "name": "El Goce Pagano",
+    "rating": 4.2,
+    "cuisine": [
+        "Colombiana",
+        "Casual",
+        "Asados"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Dg. 20A #0-82, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Empanadas",
+        "Almuerzo",
+        "Plato Personalizado",
+        "Asados"
+    ],
+    "services": [
+        "Para llevar",
+        "Domicilios"
+    ],
+    "coords": {
+        "lat": 4.603532512479674,
+        "lng": -74.06602420685438
+    },
+    "menuCategories": [
+        {
+            "title": "Arma Tu Plato",
+            "dishes": [
+                "egp-d1",
+                "egp-d2",
+                "egp-d3",
+                "egp-d4",
+                "egp-d5",
+                "egp-d6"
+            ]
+        },
+        {
+            "title": "Entradas y Extras",
+            "dishes": [
+                "egp-d7",
+                "egp-d8"
+            ]
+        },
+        {
+            "title": "Platos Fijos (Carnes y Pollos)",
+            "dishes": [
+                "egp-d9",
+                "egp-d10",
+                "egp-d11",
+                "egp-d12"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "panpaya-1",
+    "name": "Pan Pa' Ya! Pizza",
+    "rating": 4.1,
+    "cuisine": [
+        "Italiana",
+        "Pizzería",
+        "Comida Rápida"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20 45, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Pizza",
+        "Combos",
+        "Promociones",
+        "Personal"
+    ],
+    "services": [
+        "Domicilios",
+        "Para llevar"
+    ],
+    "coords": {
+        "lat": 4.60360695934243,
+        "lng": -74.06609132909219
+    },
+    "menuCategories": [
+        {
+            "title": "Pizzas de Carne",
+            "dishes": [
+                "papy-d1",
+                "papy-d2",
+                "papy-d3",
+                "papy-d4"
+            ]
+        },
+        {
+            "title": "Pizzas Vegetarianas",
+            "dishes": [
+                "papy-d5",
+                "papy-d6",
+                "papy-d7"
+            ]
+        },
+        {
+            "title": "Pizzas de Pollo",
+            "dishes": [
+                "papy-d8",
+                "papy-d9",
+                "papy-d10"
+            ]
+        },
+        {
+            "title": "Combos y Promociones",
+            "dishes": [
+                "papy-d11",
+                "papy-d12"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "randys-1",
+    "name": "Randys Hamburguesas & Steaks",
+    "rating": 4.5,
+    "cuisine": [
+        "Hamburguesas",
+        "Americana",
+        "Steaks"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20 45, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Hamburguesas",
+        "Carnes",
+        "Papas Fritas",
+        "Platos Mixtos"
+    ],
+    "services": [
+        "Para llevar",
+        "Domicilios",
+        "Comida en el local"
+    ],
+    "coords": {
+        "lat": 4.603641715565608,
+        "lng": -74.0660403671195
+    },
+    "menuCategories": [
+        {
+            "title": "Hamburguesas Clásicas y Dobles",
+            "dishes": [
+                "randys-d1",
+                "randys-d2",
+                "randys-d3",
+                "randys-d4",
+                "randys-d5",
+                "randys-d6",
+                "randys-d7"
+            ]
+        },
+        {
+            "title": "Platos al Plato (Steaks y Pollo)",
+            "dishes": [
+                "randys-d8",
+                "randys-d9",
+                "randys-d10",
+                "randys-d11"
+            ]
+        },
+        {
+            "title": "Platos Especiales (Mixtos y Salteados)",
+            "dishes": [
+                "randys-d12",
+                "randys-d13",
+                "randys-d14"
+            ]
+        },
+        {
+            "title": "Adicionales y Bebidas",
+            "dishes": [
+                "randys-d15",
+                "randys-d16",
+                "randys-d17"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "liborno-1",
+    "name": "Pizzeria Liborno",
+    "rating": 4.4,
+    "cuisine": [
+        "Italiana",
+        "Pizzería",
+        "Pasta"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20 45, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Pizza",
+        "Lasagna",
+        "Espagueti",
+        "Combos",
+        "Artesanal"
+    ],
+    "services": [
+        "Para llevar",
+        "Domicilios"
+    ],
+    "coords": {
+        "lat": 4.603627721506384,
+        "lng": -74.06608443126329
+    },
+    "menuCategories": [
+        {
+            "title": "Pizzas de Sabores",
+            "dishes": [
+                "liborno-d1",
+                "liborno-d2",
+                "liborno-d3",
+                "liborno-d4",
+                "liborno-d5",
+                "liborno-d6",
+                "liborno-d7"
+            ]
+        },
+        {
+            "title": "Combos de Pasta",
+            "dishes": [
+                "liborno-d8",
+                "liborno-d9"
+            ]
+        },
+        {
+            "title": "Lasagna y Espagueti",
+            "dishes": [
+                "liborno-d10",
+                "liborno-d11"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "laarepa-1",
+    "name": "La Arepa Chorizos y Bebidas",
+    "rating": 4.1,
+    "cuisine": [
+        "Colombiana",
+        "Comida Rápida",
+        "Venezolana"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20-28, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Arepas",
+        "Chorizos",
+        "Desgranados",
+        "Comida Rápida"
+    ],
+    "services": [
+        "Para llevar",
+        "Mesas al aire libre"
+    ],
+    "coords": {
+        "lat": 4.603757388941968,
+        "lng": -74.06589198276119
+    },
+    "menuCategories": [
+        {
+            "title": "Arepas Clásicas",
+            "dishes": [
+                "la-d1",
+                "la-d2",
+                "la-d3"
+            ]
+        },
+        {
+            "title": "Chorizos y Salchipapas",
+            "dishes": [
+                "la-d4",
+                "la-d5",
+                "la-d6",
+                "la-d7"
+            ]
+        },
+        {
+            "title": "Desgranados y Gratinados",
+            "dishes": [
+                "la-d8",
+                "la-d9",
+                "la-d10"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "la-d11",
+                "la-d12",
+                "la-d13"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "micaserito-1",
+    "name": "Mi Caserito",
+    "rating": 4.0,
+    "cuisine": [
+        "Colombiana",
+        "Almuerzos",
+        "Comida Casera"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Almuerzo",
+        "Menú del Día",
+        "Casero",
+        "Opciones Vegetarianas"
+    ],
+    "services": [
+        "Para llevar",
+        "Domicilios"
+    ],
+    "coords": {
+        "lat": 4.603841605923544,
+        "lng": -74.06583967968396
+    },
+    "menuCategories": [
+        {
+            "title": "Platos del Día y Caseritos",
+            "dishes": [
+                "mc-d1",
+                "mc-d2",
+                "mc-d3",
+                "mc-d4"
+            ]
+        },
+        {
+            "title": "Especialidades (Fritos y Patacones)",
+            "dishes": [
+                "mc-d5",
+                "mc-d6",
+                "mc-d7"
+            ]
+        },
+        {
+            "title": "Opciones de Bowl y Ensaladas",
+            "dishes": [
+                "mc-d8",
+                "mc-d9",
+                "mc-d10"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "lapuerta-1",
+    "name": "La Puerta Urban Kitchen",
+    "rating": 4.3,
+    "cuisine": [
+        "Americana",
+        "Hamburguesas",
+        "Casual"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Carrera 1 #20a-79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Hamburguesas",
+        "Desayunos",
+        "Sandwiches",
+        "Papas Fritas"
+    ],
+    "services": [
+        "Para llevar",
+        "Mesas en el local"
+    ],
+    "coords": {
+        "lat": 4.603791476769048,
+        "lng": -74.06597781345202
+    },
+    "menuCategories": [
+        {
+            "title": "Hamburguesas La Puerta",
+            "dishes": [
+                "lpuk-d1",
+                "lpuk-d2",
+                "lpuk-d3",
+                "lpuk-d4",
+                "lpuk-d5",
+                "lpuk-d6"
+            ]
+        },
+        {
+            "title": "Desayunos Completos",
+            "dishes": [
+                "lpuk-d7",
+                "lpuk-d8",
+                "lpuk-d9",
+                "lpuk-d10",
+                "lpuk-d11"
+            ]
+        },
+        {
+            "title": "Sandwiches y Acompañamientos",
+            "dishes": [
+                "lpuk-d12",
+                "lpuk-d13",
+                "lpuk-d14",
+                "lpuk-d15"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "bajocero-1",
+    "name": "Bajo Cero Heladería",
+    "rating": 4.5,
+    "cuisine": [
+        "Postres",
+        "Heladería",
+        "Dulces"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Helado",
+        "Postres",
+        "Frutas",
+        "Clásicos",
+        "Sorbete"
+    ],
+    "services": [
+        "Para llevar",
+        "Comida en el local"
+    ],
+    "coords": {
+        "lat": 4.60396160369216,
+        "lng": -74.06579809475589
+    },
+    "menuCategories": [
+        {
+            "title": "Sabores Insignia",
+            "dishes": [
+                "bc-d1",
+                "bc-d2",
+                "bc-d3",
+                "bc-d4",
+                "bc-d5"
+            ]
+        },
+        {
+            "title": "Los Nuevos",
+            "dishes": [
+                "bc-d6",
+                "bc-d7",
+                "bc-d8"
+            ]
+        },
+        {
+            "title": "Frutas y Clásicos",
+            "dishes": [
+                "bc-d9",
+                "bc-d10",
+                "bc-d11",
+                "bc-d12",
+                "bc-d13",
+                "bc-d14",
+                "bc-d15",
+                "bc-d16"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "embirriados-1",
+    "name": "Embirriados",
+    "rating": 4.3,
+    "cuisine": [
+        "Mexicana",
+        "Tacos",
+        "Comida Rápida"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Tacos",
+        "Burritos",
+        "Quesadillas",
+        "Birria",
+        "Comida Rápida"
+    ],
+    "services": [
+        "Para llevar",
+        "Comida en el local"
+    ],
+    "coords": {
+        "lat": 4.60396160369217,
+        "lng": -74.06579809475589
+    },
+    "menuCategories": [
+        {
+            "title": "Tacos y Burritos",
+            "dishes": [
+                "emb-d1",
+                "emb-d2",
+                "emb-d3"
+            ]
+        },
+        {
+            "title": "Especialidades de Maíz y Entradas",
+            "dishes": [
+                "emb-d4",
+                "emb-d5",
+                "emb-d6"
+            ]
+        },
+        {
+            "title": "Platos Fuertes y Sopas",
+            "dishes": [
+                "emb-d7",
+                "emb-d8",
+                "emb-d9"
+            ]
+        },
+        {
+            "title": "Combos y Bebidas",
+            "dishes": [
+                "emb-d10",
+                "emb-d11",
+                "emb-d12"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "callejeros-1",
+    "name": "Callejeros Fast Food",
+    "rating": 4.0,
+    "cuisine": [
+        "Comida Rápida",
+        "Salchipapas",
+        "Desgranados"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Salchipapas",
+        "Desgranados",
+        "Comida Rápida",
+        "Tostadas"
+    ],
+    "services": [
+        "Para llevar",
+        "Domicilios",
+        "Comida en el local"
+    ],
+    "coords": {
+        "lat": 4.60396160369218,
+        "lng": -74.06579809475589
+    },
+    "menuCategories": [
+        {
+            "title": "Clásicos Callejeros (Tostadas y Papas)",
+            "dishes": [
+                "calle-d1",
+                "calle-d2",
+                "calle-d3",
+                "calle-d4",
+                "calle-d5",
+                "calle-d6"
+            ]
+        },
+        {
+            "title": "Chicos Desgranados y Planchas",
+            "dishes": [
+                "calle-d7",
+                "calle-d8",
+                "calle-d9",
+                "calle-d10",
+                "calle-d11"
+            ]
+        },
+        {
+            "title": "Fuertes Calientes (Puré y Piña)",
+            "dishes": [
+                "calle-d12",
+                "calle-d13",
+                "calle-d14",
+                "calle-d15"
+            ]
+        },
+        {
+            "title": "Promociones y Adicionales",
+            "dishes": [
+                "calle-d16",
+                "calle-d17",
+                "calle-d18",
+                "calle-d19"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "cl-1",
+    "name": "Chicken Lovers",
+    "rating": 4.5,
+    "cuisine": [
+        "Comida Rápida",
+        "Pollo Frito",
+        "Americana"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Alitas",
+        "Sándwiches",
+        "Papas Fritas",
+        "Nuggets"
+    ],
+    "services": [
+        "Comida para llevar",
+        "Domicilios",
+        "Servicio Rápido"
+    ],
+    "coords": {
+        "lat": 4.60396160369218,
+        "lng": -74.06579809475591
+    },
+    "menuCategories": [
+        {
+            "title": "Sándwiches Crunchy Chicken",
+            "dishes": [
+                "SAND-1",
+                "SAND-2",
+                "SAND-3",
+                "SAND-4",
+                "SAND-5"
+            ]
+        },
+        {
+            "title": "Alitas y Tenders",
+            "dishes": [
+                "WING-1",
+                "WING-2",
+                "WING-3",
+                "WING-4"
+            ]
+        },
+        {
+            "title": "Nuggets y Adiciones",
+            "dishes": [
+                "NUGG-1",
+                "ADD-1",
+                "ADD-2"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "ft-2",
+    "name": "Fratello Trattoria",
+    "rating": 4.7,
+    "cuisine": [
+        "Italiana",
+        "Pasta",
+        "Mediterránea"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Pasta",
+        "Panini",
+        "Ensaladas",
+        "Vino"
+    ],
+    "services": [
+        "Comedor",
+        "Reservas",
+        "Terraza"
+    ],
+    "coords": {
+        "lat": 4.60396160369218,
+        "lng": -74.06579809475592
+    },
+    "menuCategories": [
+        {
+            "title": "Pastas Artesanales",
+            "dishes": [
+                "PAS-1",
+                "PAS-2",
+                "PAS-3",
+                "PAS-4",
+                "PAS-5"
+            ]
+        },
+        {
+            "title": "Paninis Italianos",
+            "dishes": [
+                "PAN-1",
+                "PAN-2",
+                "PAN-3",
+                "PAN-4"
+            ]
+        },
+        {
+            "title": "Ensaladas Frescas",
+            "dishes": [
+                "ENS-1",
+                "ENS-2",
+                "ENS-3",
+                "ENS-4"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2",
+                "BEB-3"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "kt-3",
+    "name": "Kataca - Comida India",
+    "rating": 4.2,
+    "cuisine": [
+        "India",
+        "Asiática",
+        "Vegetariana"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Curries",
+        "Samosas",
+        "Vegetariano",
+        "Comida Rápida India"
+    ],
+    "services": [
+        "Para llevar",
+        "Opciones Vegetarianas",
+        "Comida Casual"
+    ],
+    "coords": {
+        "lat": 4.60396160369218,
+        "lng": -74.06579809475593
+    },
+    "menuCategories": [
+        {
+            "title": "Combos y Platos Principales",
+            "dishes": [
+                "COM-1",
+                "COM-2",
+                "COM-3"
+            ]
+        },
+        {
+            "title": "Entradas y Adiciones",
+            "dishes": [
+                "ENT-1",
+                "ENT-2",
+                "ENT-3"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2",
+                "BEB-3",
+                "BEB-4"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "pk-4",
+    "name": "Poke - Healthy Food",
+    "rating": 4.6,
+    "cuisine": [
+        "Hawaiiana",
+        "Fusión Asiática",
+        "Saludable"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Bowls",
+        "Saludable",
+        "Pescado Crudo",
+        "Vegetariano"
+    ],
+    "services": [
+        "Opciones Veggie",
+        "Comida Rápida Saludable",
+        "Domicilios"
+    ],
+    "coords": {
+        "lat": 4.60396160369218,
+        "lng": -74.06579809475594
+    },
+    "menuCategories": [
+        {
+            "title": "Arma Tu Poke Bowl",
+            "dishes": [
+                "PK-AT1",
+                "PK-AT2"
+            ]
+        },
+        {
+            "title": "Poke Bowls de la Casa",
+            "dishes": [
+                "PK-C1",
+                "PK-C2",
+                "PK-C3",
+                "PK-C4"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2",
+                "BEB-3"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "sg-5",
+    "name": "Santo Gyro",
+    "rating": 4.4,
+    "cuisine": [
+        "Griega",
+        "Mediterránea",
+        "Comida Rápida"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Gyros",
+        "Pitta",
+        "Combos",
+        "Comida Griega"
+    ],
+    "services": [
+        "Para llevar",
+        "Comida Rápida",
+        "Al aire libre"
+    ],
+    "coords": {
+        "lat": 4.60396160369218,
+        "lng": -74.06579809475595
+    },
+    "menuCategories": [
+        {
+            "title": "Gyros",
+            "dishes": [
+                "GYR-1",
+                "GYR-2",
+                "GYR-3",
+                "GYR-4"
+            ]
+        },
+        {
+            "title": "Combos",
+            "dishes": [
+                "COM-1",
+                "COM-2"
+            ]
+        },
+        {
+            "title": "Entradas y Acompañamientos",
+            "dishes": [
+                "ENT-1",
+                "ENT-2",
+                "ENT-3"
+            ]
+        },
+        {
+            "title": "Bebidas y Adiciones",
+            "dishes": [
+                "BEB-1",
+                "BEB-2",
+                "BEB-3"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "af-6",
+    "name": "Al Forno Pizzería",
+    "rating": 4.8,
+    "cuisine": [
+        "Italiana",
+        "Pizza",
+        "Lasagna"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Pizza",
+        "Horno",
+        "Lasagna",
+        "Calzone"
+    ],
+    "services": [
+        "Para llevar",
+        "Comida al Horno",
+        "Servicio Rápido"
+    ],
+    "coords": {
+        "lat": 4.60396160369218,
+        "lng": -74.06579809475596
+    },
+    "menuCategories": [
+        {
+            "title": "Pizzas Clásicas y Especiales",
+            "dishes": [
+                "PZ-1",
+                "PZ-2",
+                "PZ-3",
+                "PZ-4",
+                "PZ-5"
+            ]
+        },
+        {
+            "title": "Lasagnas al Horno",
+            "dishes": [
+                "LAS-1",
+                "LAS-2",
+                "LAS-3"
+            ]
+        },
+        {
+            "title": "Calzones y Platos al Horno",
+            "dishes": [
+                "CALZ-1",
+                "CALZ-2"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "pg-7",
+    "name": "Panda Go",
+    "rating": 4.3,
+    "cuisine": [
+        "China",
+        "Wok",
+        "Asiática",
+        "Comida Rápida"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Wok",
+        "Noodles",
+        "Arroz Frito",
+        "Rápido"
+    ],
+    "services": [
+        "Comida para llevar",
+        "Combos Promocionales",
+        "Cerveza Artesanal"
+    ],
+    "coords": {
+        "lat": 4.60396160369219,
+        "lng": -74.06579809475597
+    },
+    "menuCategories": [
+        {
+            "title": "Arma Tu Wok o Bowl",
+            "dishes": [
+                "WG-AT1",
+                "WG-AT2"
+            ]
+        },
+        {
+            "title": "Arroces Fritos",
+            "dishes": [
+                "AF-1",
+                "AF-2",
+                "AF-3"
+            ]
+        },
+        {
+            "title": "Promociones y Combos",
+            "dishes": [
+                "PRO-1",
+                "PRO-2"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "asc-8",
+    "name": "Arepas y Sabores Colombianos",
+    "rating": 4.1,
+    "cuisine": [
+        "Colombiana",
+        "Comida Típica",
+        "Arepas"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A -79, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Arepas",
+        "Picadas",
+        "Desayunos",
+        "Almuerzos"
+    ],
+    "services": [
+        "Comida Típica",
+        "Desayuno Disponible",
+        "Comida Casual"
+    ],
+    "coords": {
+        "lat": 4.604150475532953,
+        "lng": -74.06565103483139
+    },
+    "menuCategories": [
+        {
+            "title": "Arepas Rellenas",
+            "dishes": [
+                "ARP-1",
+                "ARP-2",
+                "ARP-3",
+                "ARP-4"
+            ]
+        },
+        {
+            "title": "Desayunos y Almuerzos",
+            "dishes": [
+                "DES-1",
+                "DES-2",
+                "ALM-1",
+                "ALM-2"
+            ]
+        },
+        {
+            "title": "Para Picar (Fritos y Chorizos)",
+            "dishes": [
+                "PIC-1",
+                "PIC-2",
+                "PIC-3"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "tr-9",
+    "name": "Torii Sushi & Bowls",
+    "rating": 4.9,
+    "cuisine": [
+        "Japonesa",
+        "Sushi",
+        "Asiática",
+        "Bowls"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cl 22 #1 10, Santa Fé, Bogotá, Cundinamarca",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Sushi",
+        "Bowls",
+        "Salmón",
+        "Wok"
+    ],
+    "services": [
+        "Domicilios",
+        "Comida Rápida Gourmet",
+        "Opciones Veggie"
+    ],
+    "coords": {
+        "lat": 4.60452193233567,
+        "lng": -74.06551613951711
+    },
+    "menuCategories": [
+        {
+            "title": "Sushi Rolls Especiales",
+            "dishes": [
+                "SUS-1",
+                "SUS-2",
+                "SUS-3",
+                "SUS-4",
+                "SUS-5"
+            ]
+        },
+        {
+            "title": "Bowls de la Casa (Rice/Noodles)",
+            "dishes": [
+                "BOWL-1",
+                "BOWL-2",
+                "BOWL-3",
+                "BOWL-4"
+            ]
+        },
+        {
+            "title": "Combos y Promociones",
+            "dishes": [
+                "COM-1",
+                "COM-2",
+                "COM-3"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2",
+                "BEB-3"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "lpc-10",
+    "name": "La Papa Carbonara & Fast Food",
+    "rating": 4.0,
+    "cuisine": [
+        "Fusión",
+        "Empanadas",
+        "Comida Rápida",
+        "Colombiana"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Calle 22#0-51, Cl. 22, Of 301, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Empanadas",
+        "Hamburguesas",
+        "Perros Calientes",
+        "Menu del Día"
+    ],
+    "services": [
+        "Comida para llevar",
+        "Comida al paso",
+        "Opción Económica"
+    ],
+    "coords": {
+        "lat": 4.6045513314258955,
+        "lng": -74.06547703119932
+    },
+    "menuCategories": [
+        {
+            "title": "Empanadas Gourmet",
+            "dishes": [
+                "EMP-1",
+                "EMP-2",
+                "EMP-3",
+                "EMP-4",
+                "EMP-5"
+            ]
+        },
+        {
+            "title": "Comida Rápida Americana (US)",
+            "dishes": [
+                "FAST-1",
+                "FAST-2",
+                "FAST-3"
+            ]
+        },
+        {
+            "title": "Menú del Día y Platos Caseros",
+            "dishes": [
+                "MEN-1",
+                "MEN-2"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "zv-11",
+    "name": "Zushiviches - Sushi & Ceviche",
+    "rating": 4.7,
+    "cuisine": [
+        "Fusión Asiática",
+        "Peruana",
+        "Japonesa",
+        "Mariscos"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cl 22 #1-12, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Sushi",
+        "Ceviche",
+        "Pescado Crudo",
+        "Fusión"
+    ],
+    "services": [
+        "Domicilios",
+        "Comida Fresca",
+        "Platos al Wok"
+    ],
+    "coords": {
+        "lat": 4.604668547170277,
+        "lng": -74.06549713982213
+    },
+    "menuCategories": [
+        {
+            "title": "Ceviches Clásicos y Especiales",
+            "dishes": [
+                "CEV-1",
+                "CEV-2",
+                "CEV-3"
+            ]
+        },
+        {
+            "title": "Sushi Rolls Fusión",
+            "dishes": [
+                "SUS-1",
+                "SUS-2",
+                "SUS-3",
+                "SUS-4"
+            ]
+        },
+        {
+            "title": "Wok y Bowls",
+            "dishes": [
+                "WOK-1",
+                "WOK-2"
+            ]
+        },
+        {
+            "title": "Bebidas y Postres",
+            "dishes": [
+                "BEB-1",
+                "BEB-2",
+                "BEB-3"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "wb-12",
+    "name": "WB Sandwichería",
+    "rating": 4.5,
+    "cuisine": [
+        "Sandwichería",
+        "Comida Rápida",
+        "Americana",
+        "Arepas"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cl 22 #1-12, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Sándwiches",
+        "Arepas Rellenas",
+        "Panadería",
+        "Comida Rápida"
+    ],
+    "services": [
+        "Comida para llevar",
+        "Desayunos",
+        "Servicio Rápido"
+    ],
+    "coords": {
+        "lat": 4.604668547170277,
+        "lng": -74.06549713982214
+    },
+    "menuCategories": [
+        {
+            "title": "Sándwiches Especiales WB",
+            "dishes": [
+                "SW-1",
+                "SW-2",
+                "SW-3",
+                "SW-4"
+            ]
+        },
+        {
+            "title": "Arepas y Desayunos",
+            "dishes": [
+                "ARP-1",
+                "ARP-2",
+                "DES-1"
+            ]
+        },
+        {
+            "title": "Adicionales y Acompañamientos",
+            "dishes": [
+                "ADD-1",
+                "ADD-2",
+                "ADD-3"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "bog-13",
+    "name": "Bogombia Café Fresco",
+    "rating": 4.6,
+    "cuisine": [
+        "Cafetería",
+        "Panadería",
+        "Colombiana",
+        "Desayunos"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cl 22 #1-12, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "7:00 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "7:00 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "7:00 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "7:00 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "7:00 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "7:00 a.m.",
+            "close": "9:00 a.m."
+        },
+        "domingo": {
+            "open": "8:00 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Café",
+        "Panadería",
+        "Empanadas",
+        "Desayunos"
+    ],
+    "services": [
+        "Desayunos disponibles",
+        "Comida al paso",
+        "Servicio Rápido"
+    ],
+    "coords": {
+        "lat": 4.604668547170277,
+        "lng": -74.06549713982215
+    },
+    "menuCategories": [
+        {
+            "title": "Café y Bebidas Calientes",
+            "dishes": [
+                "CAF-1",
+                "CAF-2",
+                "CAF-3",
+                "CAF-4"
+            ]
+        },
+        {
+            "title": "Panadería y Pasabocas",
+            "dishes": [
+                "PAN-1",
+                "PAN-2",
+                "PAN-3",
+                "PAN-4"
+            ]
+        },
+        {
+            "title": "Desayunos y Almuerzos",
+            "dishes": [
+                "DES-1",
+                "DES-2",
+                "ALM-1"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "lpc-14",
+    "name": "La Papa Carbonara (Fritos)",
+    "rating": 4.2,
+    "cuisine": [
+        "Comida Rápida",
+        "Frituras",
+        "Colombiana",
+        "Snacks"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cl 22 #1-12, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Fritos",
+        "Picadas",
+        "Snacks",
+        "Rápido"
+    ],
+    "services": [
+        "Comida para llevar",
+        "Comida al paso",
+        "Opción Económica"
+    ],
+    "coords": {
+        "lat": 4.604668547170277,
+        "lng": -74.06549713982216
+    },
+    "menuCategories": [
+        {
+            "title": "Frituras y Pasabocas",
+            "dishes": [
+                "FRIT-1",
+                "FRIT-2",
+                "FRIT-3"
+            ]
+        },
+        {
+            "title": "Arepas y Empanadas",
+            "dishes": [
+                "ARP-1",
+                "EMP-1"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "pym-15",
+    "name": "Papel y Mantel - Comida Casera",
+    "rating": 4.3,
+    "cuisine": [
+        "Colombiana",
+        "Comida Casera",
+        "Almuerzos"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cl 22 #1-12, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "martes": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "miércoles": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "jueves": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "viernes": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "sábado": {
+            "open": "7:00 a.m.",
+            "close": "4:00 p.m."
+        },
+        "domingo": {
+            "open": "Cerrado",
+            "close": "Cerrado"
+        }
+    },
+    "tags": [
+        "Menú del Día",
+        "Almuerzos",
+        "Comida Casera",
+        "Rápido"
+    ],
+    "services": [
+        "Platos del día",
+        "Comida tradicional",
+        "Opciones económicas"
+    ],
+    "coords": {
+        "lat": 4.604668547170277,
+        "lng": -74.06549713982217
+    },
+    "menuCategories": [
+        {
+            "title": "Menú del Día (Varía Diariamente)",
+            "dishes": [
+                "MEN-1",
+                "MEN-2"
+            ]
+        },
+        {
+            "title": "Platos a la Carta (Caseros)",
+            "dishes": [
+                "PC-1",
+                "PC-2",
+                "PC-3"
+            ]
+        },
+        {
+            "title": "Bebidas y Jugos Naturales",
+            "dishes": [
+                "BEB-1",
+                "BEB-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "las-16",
+    "name": "La Arepa Soñada",
+    "rating": 4.1,
+    "cuisine": [
+        "Colombiana",
+        "Arepas",
+        "Desayunos"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 Este &, Cl. 20, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "martes": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "miércoles": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "jueves": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "viernes": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "sábado": {
+            "open": "7:00 a.m.",
+            "close": "4:00 p.m."
+        },
+        "domingo": {
+            "open": "7:00 a.m.",
+            "close": "4:00 p.m."
+        }
+    },
+    "tags": [
+        "Arepas Rellenas",
+        "Desayunos",
+        "Comida Típica",
+        "Rápido"
+    ],
+    "services": [
+        "Comida al paso",
+        "Desayunos disponibles",
+        "Picadas"
+    ],
+    "coords": {
+        "lat": 4.603388511093287,
+        "lng": -74.06597760756176
+    },
+    "menuCategories": [
+        {
+            "title": "Arepas con Relleno (A la carta)",
+            "dishes": [
+                "ARP-1",
+                "ARP-2",
+                "ARP-3",
+                "ARP-4",
+                "ARP-5"
+            ]
+        },
+        {
+            "title": "Desayunos y Platos con Huevo",
+            "dishes": [
+                "DES-1",
+                "DES-2",
+                "DES-3"
+            ]
+        },
+        {
+            "title": "Para Picar y Acompañamientos",
+            "dishes": [
+                "PIC-1",
+                "PIC-2",
+                "PIC-3"
+            ]
+        },
+        {
+            "title": "Bebidas",
+            "dishes": [
+                "BEB-1",
+                "BEB-2",
+                "BEB-3"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "tos-17",
+    "name": "Tostao",
+    "rating": 4.3,
+    "cuisine": [
+        "Cafetería",
+        "Panadería",
+        "Comida Rápida"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20A - 21, Santa Fé, Bogotá, Cundinamarca",
+    "hours": {
+        "lunes": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "martes": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "miércoles": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "jueves": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "viernes": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "sábado": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        },
+        "domingo": {
+            "open": "7:00 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Café",
+        "Panadería",
+        "Combos",
+        "Bebidas Frías y Calientes"
+    ],
+    "services": [
+        "Para llevar",
+        "Comida al paso",
+        "Desayunos disponibles"
+    ],
+    "coords": {
+        "lat": 4.603394824333736,
+        "lng": -74.06620994983375
+    },
+    "menuCategories": [
+        {
+            "title": "Bebidas Calientes",
+            "dishes": [
+                "BEBC-1",
+                "BEBC-2",
+                "BEBC-3",
+                "BEBC-4",
+                "BEBC-5"
+            ]
+        },
+        {
+            "title": "Bebidas Frías",
+            "dishes": [
+                "BEBF-1",
+                "BEBF-2",
+                "BEBF-3"
+            ]
+        },
+        {
+            "title": "Panadería y Repostería",
+            "dishes": [
+                "PAN-1",
+                "PAN-2",
+                "PAN-3",
+                "PAN-4"
+            ]
+        },
+        {
+            "title": "Combos Manía",
+            "dishes": [
+                "COMB-1",
+                "COMB-2",
+                "COMB-3",
+                "COMB-4"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "pdb-18",
+    "name": "Panadería Doña Blanca",
+    "rating": 4.0,
+    "cuisine": [
+        "Panadería",
+        "Desayunos",
+        "Comida Rápida"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cra. 1 #20a 5, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "martes": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "miércoles": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "jueves": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "viernes": {
+            "open": "6:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "sábado": {
+            "open": "7:00 a.m.",
+            "close": "6:00 p.m."
+        },
+        "domingo": {
+            "open": "7:00 a.m.",
+            "close": "6:00 p.m."
+        }
+    },
+    "tags": [
+        "Pan Fresco",
+        "Almuerzos",
+        "Desayunos",
+        "Jugos Naturales"
+    ],
+    "services": [
+        "Comida para llevar",
+        "Servicio a domicilio",
+        "Almuerzo especial"
+    ],
+    "coords": {
+        "lat": 4.6032684987783155,
+        "lng": -74.06625957070189
+    },
+    "menuCategories": [
+        {
+            "title": "Panadería y Repostería",
+            "dishes": [
+                "PAN-1",
+                "PAN-2",
+                "PAN-3",
+                "PAN-4"
+            ]
+        },
+        {
+            "title": "Bebidas Calientes",
+            "dishes": [
+                "BEBC-1",
+                "BEBC-2",
+                "BEBC-3"
+            ]
+        },
+        {
+            "title": "Desayunos",
+            "dishes": [
+                "DES-1",
+                "DES-2",
+                "DES-3"
+            ]
+        },
+        {
+            "title": "Almuerzo Especial",
+            "dishes": [
+                "ALM-1",
+                "ALM-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "and-19",
+    "name": "Andrés Exprés",
+    "rating": 4.5,
+    "cuisine": [
+        "Colombiana",
+        "Comida Típica",
+        "Arepas"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cl. 20 #2A - 16, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "7:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "martes": {
+            "open": "7:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "miércoles": {
+            "open": "7:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "jueves": {
+            "open": "7:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "viernes": {
+            "open": "7:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "sábado": {
+            "open": "7:00 a.m.",
+            "close": "8:00 p.m."
+        },
+        "domingo": {
+            "open": "8:00 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Arepas",
+        "Empanadas",
+        "Platos Fuertes",
+        "Postres"
+    ],
+    "services": [
+        "Comida tradicional",
+        "Para llevar",
+        "Desayunos"
+    ],
+    "coords": {
+        "lat": 4.603372073152217,
+        "lng": -74.06629447731324
+    },
+    "menuCategories": [
+        {
+            "title": "Para Empezar y Patacones",
+            "dishes": [
+                "ENTR-1",
+                "ENTR-2",
+                "ENTR-3"
+            ]
+        },
+        {
+            "title": "Empanadas",
+            "dishes": [
+                "EMP-1",
+                "EMP-2",
+                "EMP-3"
+            ]
+        },
+        {
+            "title": "Platos Fuertes (Plato del Pastor)",
+            "dishes": [
+                "PLT-1",
+                "PLT-2",
+                "PLT-3"
+            ]
+        },
+        {
+            "title": "Postres y Adiciones",
+            "dishes": [
+                "ADIC-1",
+                "POST-1",
+                "POST-2"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "lam-20",
+    "name": "La Mula (Junto a La Gasolinería)",
+    "rating": 4.1,
+    "cuisine": [
+        "Comida Rápida",
+        "Americana",
+        "Fusión"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cl. 19 #1-07, La Candelaria, Bogotá",
+    "hours": {
+        "lunes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "martes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "miércoles": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "jueves": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "viernes": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "sábado": {
+            "open": "11:30 a.m.",
+            "close": "9:00 p.m."
+        },
+        "domingo": {
+            "open": "11:30 a.m.",
+            "close": "7:00 p.m."
+        }
+    },
+    "tags": [
+        "Comida Rápida",
+        "Domicilios",
+        "Platos Únicos",
+        "Almuerzos"
+    ],
+    "services": [
+        "Servicio a domicilio rápido",
+        "Comida para llevar",
+        "Servicio Rápido"
+    ],
+    "coords": {
+        "lat": 4.602343468174248,
+        "lng": -74.06623366949187
+    },
+    "menuCategories": [
+        {
+            "title": "Platos Destacados (La Mula)",
+            "dishes": [
+                "PLT-1",
+                "PLT-2",
+                "PLT-3"
+            ]
+        },
+        {
+            "title": "Fast Food (La Gasolinería)",
+            "dishes": [
+                "FF-1",
+                "FF-2",
+                "FF-3"
+            ]
+        },
+        {
+            "title": "Bebidas y Adiciones",
+            "dishes": [
+                "BEB-1",
+                "BEB-2",
+                "ADD-1"
+            ]
+        }
+    ]
+},
+
+{
+    "id": "acai-bowls-1",
+    "name": "Acai Bowls Colombia",
+    "rating": 4.7,
+    "cuisine": [
+      "Saludable",
+      "Postres",
+      "Frutas"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cl. 19 Bis #1 15, Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "martes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "miércoles": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "jueves": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "viernes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "sábado": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "domingo": {
+        "open": "11:30 a.m.",
+        "close": "7:00 p.m."
+      }
+    },
+    "tags": [
+      "Açaí",
+      "Batidos",
+      "Saludable",
+      "Frutas",
+      "Postre"
+    ],
+    "services": [
+      "Wifi"
+    ],
+    "coords": {
+      "lat": 4.602406965233568,
+      "lng": -74.06638186153761
+    },
+    "menuCategories": [
+      {
+        "title": "Bowls de Açaí",
+        "dishes": [
+          "ACB-1",
+          "ACB-2",
+          "ACB-3",
+          "ACB-4"
+        ]
+      },
+      {
+        "title": "Batidos y Smoothies",
+        "dishes": [
+          "BAT-1",
+          "BAT-2",
+          "BAT-3",
+          "BAT-4"
+        ]
+      },
+      {
+        "title": "Tropical Cups",
+        "dishes": [
+          "TPL-1",
+          "TPL-2",
+          "TPL-3"
+        ]
+      },
+      {
+        "title": "Toppings y Adicionales",
+        "dishes": [
+          "TOP-1",
+          "TOP-2"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "burger-play-1",
+    "name": "BURGER PLAY",
+    "rating": 4.3,
+    "cuisine": [
+      "Comida Rápida",
+      "Hamburguesas",
+      "Americana"
+    ],
+    "price": "$",
+    "distance_km": "4",
+    "address": "Cl. 19 Bis #1-73, Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "martes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "miércoles": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "jueves": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "viernes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "sábado": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "domingo": {
+        "open": "11:30 a.m.",
+        "close": "7:00 p.m."
+      }
+    },
+    "tags": [
+      "Hamburguesas",
+      "Perros Calientes",
+      "Papas Fritas",
+      "Casual",
+      "Económico"
+    ],
+    "services": [
+      "Wifi"
+    ],
+    "coords": {
+      "lat": 4.602518586364709,
+      "lng": -74.0667620646674
+    },
+    "menuCategories": [
+      {
+        "title": "Hamburguesas Clásicas",
+        "dishes": [
+          "BPL-HB1",
+          "BPL-HB2",
+          "BPL-HB3"
+        ]
+      },
+      {
+        "title": "Perros Calientes (Hot Dogs)",
+        "dishes": [
+          "BPL-HD1",
+          "BPL-HD2",
+          "BPL-HD3",
+          "BPL-HD4"
+        ]
+      },
+      {
+        "title": "Acompañamientos y Adicionales",
+        "dishes": [
+          "BPL-AC1",
+          "BPL-AC2"
+        ]
+      },
+      {
+        "title": "Bebidas y Malteadas",
+        "dishes": [
+          "BPL-BB1",
+          "BPL-BB2"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "one-burrito-pola-1",
+    "name": "One Burrito Pola",
+    "rating": 4.5,
+    "cuisine": [
+      "Mexicana",
+      "Tex-Mex"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cl. 19 Bis #1-85, Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "martes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "miércoles": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "jueves": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "viernes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "sábado": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "domingo": {
+        "open": "11:30 a.m.",
+        "close": "7:00 p.m."
+      }
+    },
+    "tags": [
+      "Burritos",
+      "Nachos",
+      "Bowls",
+      "Tacos",
+      "Para armar"
+    ],
+    "services": [
+      "Wifi",
+      "Pet Friendly"
+    ],
+    "coords": {
+      "lat": 4.6025680472202914,
+      "lng": -74.06679827448717
+    },
+    "menuCategories": [
+      {
+        "title": "Arma Tu Burrito",
+        "dishes": [
+          "OBP-B1",
+          "OBP-B2",
+          "OBP-B3",
+          "OBP-B4"
+        ]
+      },
+      {
+        "title": "Arma Tu Bowl (Pote)",
+        "dishes": [
+          "OBP-BW1",
+          "OBP-BW2",
+          "OBP-BW3"
+        ]
+      },
+      {
+        "title": "Quesadillas y Tacos",
+        "dishes": [
+          "OBP-Q1",
+          "OBP-T1"
+        ]
+      },
+      {
+        "title": "Nachos y Sopas",
+        "dishes": [
+          "OBP-N1",
+          "OBP-N2",
+          "OBP-S1"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "don-kebab-1",
+    "name": "Don Kebab",
+    "rating": 4.6,
+    "cuisine": [
+      "Árabe",
+      "Turca",
+      "Mediterránea"
+    ],
+    "price": "$$",
+    "distance_km": "4",
+    "address": "Cra. 2a #18a -48, La Candelaria, Bogotá, Cundinamarca",
+    "hours": {
+      "lunes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "martes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "miércoles": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "jueves": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "viernes": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "sábado": {
+        "open": "11:30 a.m.",
+        "close": "9:00 p.m."
+      },
+      "domingo": {
+        "open": "11:30 a.m.",
+        "close": "7:00 p.m."
+      }
+    },
+    "tags": [
+      "Kebab",
+      "Shawarma",
+      "Döner",
+      "Durum",
+      "Rápido"
+    ],
+    "services": [
+      "Wifi"
+    ],
+    "coords": {
+      "lat": 4.60219976428407,
+      "lng": -74.06732868132043
+    },
+    "menuCategories": [
+      {
+        "title": "Kebabs (Döner & Durum)",
+        "dishes": [
+          "DK-K1",
+          "DK-K2",
+          "DK-K3",
+          "DK-K4"
+        ]
+      },
+      {
+        "title": "Combos (con Bebida y Papa)",
+        "dishes": [
+          "DK-C1",
+          "DK-C2"
+        ]
+      },
+      {
+        "title": "Acompañamientos",
+        "dishes": [
+          "DK-A1",
+          "DK-A2",
+          "DK-A3"
+        ]
+      },
+      {
+        "title": "Porciones",
+        "dishes": [
+          "DK-P1",
+          "DK-P2"
+        ]
+      },
+      {
+        "title": "Bebidas",
+        "dishes": [
+          "DK-B1",
+          "DK-B2",
+          "DK-B3"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "bogota-store-cafe-1",
+    "name": "Bogotá Store Café",
+    "rating": 4.5,
+    "cuisine": [
+      "Cafetería",
+      "Postres",
+      "Comida Rápida"
+    ],
+    "price": "$",
+    "distance_km": "4.0",
+    "address": "Cra. 2a #18a-38, Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "7:30 a.m.",
+        "close": "7:00 p.m."
+      },
+      "martes": {
+        "open": "7:30 a.m.",
+        "close": "7:00 p.m."
+      },
+      "miércoles": {
+        "open": "7:30 a.m.",
+        "close": "7:00 p.m."
+      },
+      "jueves": {
+        "open": "7:30 a.m.",
+        "close": "7:00 p.m."
+      },
+      "viernes": {
+        "open": "7:30 a.m.",
+        "close": "7:00 p.m."
+      },
+      "sábado": {
+        "open": "8:00 a.m.",
+        "close": "5:00 p.m."
+      },
+      "domingo": {
+        "open": "Cerrado",
+        "close": "Cerrado"
+      }
+    },
+    "tags": [
+      "Café",
+      "Postres",
+      "Desayuno",
+      "Snacks",
+      "Económico"
+    ],
+    "services": [
+      "Wifi",
+      "Servicio en mesa"
+    ],
+    "coords": {
+      "lat": 4.602059781866552,
+      "lng": -74.06738332063757
+    },
+    "menuCategories": [
+      {
+        "title": "Bebidas de Café",
+        "dishes": [
+          "BSC-C1",
+          "BSC-C2",
+          "BSC-C3"
+        ]
+      },
+      {
+        "title": "Postres y Pastelería",
+        "dishes": [
+          "BSC-P1",
+          "BSC-P2",
+          "BSC-P3"
+        ]
+      },
+      {
+        "title": "Snacks y Sandwiches",
+        "dishes": [
+          "BSC-S1",
+          "BSC-S2"
+        ]
+      },
+      {
+        "title": "Bebidas Frías y Refrescos",
+        "dishes": [
+          "BSC-B1",
+          "BSC-B2"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "voodoo-1",
+    "name": "Voodoo",
+    "rating": 4.7,
+    "cuisine": [
+      "Comida Rápida",
+      "Hamburguesas",
+      "Americana"
+    ],
+    "price": "$$",
+    "distance_km": "4.1",
+    "address": "Cl. 18a #1-82, Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "12:00 p.m.",
+        "close": "9:00 p.m."
+      },
+      "martes": {
+        "open": "12:00 p.m.",
+        "close": "9:00 p.m."
+      },
+      "miércoles": {
+        "open": "12:00 p.m.",
+        "close": "9:00 p.m."
+      },
+      "jueves": {
+        "open": "12:00 p.m.",
+        "close": "9:00 p.m."
+      },
+      "viernes": {
+        "open": "12:00 p.m.",
+        "close": "10:00 p.m."
+      },
+      "sábado": {
+        "open": "12:00 p.m.",
+        "close": "10:00 p.m."
+      },
+      "domingo": {
+        "open": "1:00 p.m.",
+        "close": "8:00 p.p."
+      }
+    },
+    "tags": [
+      "Hamburguesas",
+      "Shakes",
+      "Gourmet",
+      "Casual"
+    ],
+    "services": [
+      "Servicio en mesa",
+      "Domicilio"
+    ],
+    "coords": {
+      "lat": 4.601771965724539,
+      "lng": -74.06759805170962
+    },
+    "menuCategories": [
+      {
+        "title": "Hamburguesas Clásicas",
+        "dishes": [
+          "VOO-B1",
+          "VOO-B2",
+          "VOO-B3"
+        ]
+      },
+      {
+        "title": "Hamburguesas Veggie",
+        "dishes": [
+          "VOO-V1",
+          "VOO-V2"
+        ]
+      },
+      {
+        "title": "Shakes",
+        "dishes": [
+          "VOO-S1",
+          "VOO-S2",
+          "VOO-S3"
+        ]
+      },
+      {
+        "title": "Bebidas y Refrescos",
+        "dishes": [
+          "VOO-D1",
+          "VOO-D2",
+          "VOO-D3"
+        ]
+      },
+      {
+        "title": "Combos",
+        "dishes": [
+          "VOO-C1",
+          "VOO-C2"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "papadictos-1",
+    "name": "Papadictos",
+    "rating": 4.6,
+    "cuisine": [
+      "Comida Rápida",
+      "Papas",
+      "Parrilla"
+    ],
+    "price": "$$",
+    "distance_km": "4.1",
+    "address": "Cl. 18a #1-82, Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "1:00 p.m.",
+        "close": "9:00 p.m."
+      },
+      "martes": {
+        "open": "1:00 p.m.",
+        "close": "9:00 p.m."
+      },
+      "miércoles": {
+        "open": "1:00 p.m.",
+        "close": "9:00 p.m."
+      },
+      "jueves": {
+        "open": "1:00 p.m.",
+        "close": "9:00 p.m."
+      },
+      "viernes": {
+        "open": "1:00 p.m.",
+        "close": "10:00 p.m."
+      },
+      "sábado": {
+        "open": "1:00 p.m.",
+        "close": "10:00 p.m."
+      },
+      "domingo": {
+        "open": "1:00 p.m.",
+        "close": "8:00 p.p."
+      }
+    },
+    "tags": [
+      "Papas",
+      "Salchipapas",
+      "Parrilla",
+      "Ahumados",
+      "Cerveza Artesanal"
+    ],
+    "services": [
+      "Servicio en mesa",
+      "Domicilio"
+    ],
+    "coords": {
+      "lat": 4.601707786829854,
+      "lng": -74.06745055485823
+    },
+    "menuCategories": [
+      {
+        "title": "Recetas de la Casa (Adictos)",
+        "dishes": [
+          "PAD-A1",
+          "PAD-A2",
+          "PAD-A3",
+          "PAD-A4",
+          "PAD-A5",
+          "PAD-A6",
+          "PAD-A7",
+          "PAD-A8"
+        ]
+      },
+      {
+        "title": "Arma tu Receta",
+        "dishes": [
+          "PAD-R1",
+          "PAD-R2",
+          "PAD-R3"
+        ]
+      },
+      {
+        "title": "Parrilla y Ahumados",
+        "dishes": [
+          "PAD-P1",
+          "PAD-P2",
+          "PAD-P3",
+          "PAD-P4"
+        ]
+      },
+      {
+        "title": "Hamburguesas (Desde $18.900)",
+        "dishes": [
+          "PAD-H1",
+          "PAD-H2"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "henrry-1",
+    "name": "Comidas Rápidas Henrry",
+    "rating": 4.4,
+    "cuisine": [
+      "Comida Rápida",
+      "Colombiana"
+    ],
+    "price": "$",
+    "distance_km": "4.2",
+    "address": "Cl. 18 # 1 - 99, Bogotá",
+    "hours": {
+      "lunes": {
+        "open": "11:00 a.m.",
+        "close": "9:30 p.m."
+      },
+      "martes": {
+        "open": "11:00 a.m.",
+        "close": "9:30 p.m."
+      },
+      "miércoles": {
+        "open": "11:00 a.m.",
+        "close": "9:30 p.m."
+      },
+      "jueves": {
+        "open": "11:00 a.m.",
+        "close": "9:30 p.m."
+      },
+      "viernes": {
+        "open": "11:00 a.m.",
+        "close": "10:00 p.m."
+      },
+      "sábado": {
+        "open": "11:00 a.m.",
+        "close": "10:00 p.m."
+      },
+      "domingo": {
+        "open": "1:00 p.m.",
+        "close": "8:00 p.m."
+      }
+    },
+    "tags": [
+      "Hamburguesas",
+      "Perros Calientes",
+      "Empanadas",
+      "Arepas",
+      "Económico"
+    ],
+    "services": [
+      "Servicio en mostrador",
+      "Comida para llevar"
+    ],
+    "coords": {
+      "lat": 4.601543875634503,
+      "lng": -74.06769024563812
+    },
+    "menuCategories": [
+      {
+        "title": "Combos",
+        "dishes": [
+          "HNY-C1",
+          "HNY-C2",
+          "HNY-C3",
+          "HNY-C4",
+          "HNY-C5"
+        ]
+      },
+      {
+        "title": "Platos Individuales",
+        "dishes": [
+          "HNY-P1",
+          "HNY-P2",
+          "HNY-P3",
+          "HNY-P4"
+        ]
+      },
+      {
+        "title": "Empanadas y Snacks",
+        "dishes": [
+          "HNY-E1",
+          "HNY-E2",
+          "HNY-E3"
+        ]
+      }
+    ]
+  }
 ]
