@@ -16,7 +16,7 @@ export default function DishScreen({ route, navigation }) {
 
   return (
     <ScrollView className="flex-1 bg-white">
-      <CarouselSimple images={imageMap[restaurant.name].dishes[dish.name]} />
+      <CarouselSimple images={imageMap[restaurant.name]?.dishes?.[dish.name]} />
       <View className="p-4">
         <Text className="text-2xl font-bold">{dish.name}</Text>
         <Text className="text-sm text-gray-500 mt-1">{restaurant?.name}</Text>

@@ -12,7 +12,7 @@ export default function RestaurantCard({ item, onPress }) {
       className="w-72 mr-4 rounded-xl overflow-hidden bg-white shadow"
     >
       <Image
-        source={imageMap[item.name].main[0]}
+        source={imageMap[item.name]?.main[0]}
         className="h-40 w-full"
         resizeMode="cover"
       />

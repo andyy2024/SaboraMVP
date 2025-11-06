@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { View, Text, FlatList, TouchableOpacity, Keyboard, ScrollView } from 'react-native';
+import { View, Text, FlatList, TouchableOpacity, Keyboard, ScrollView, TouchableWithoutFeedback, } from 'react-native';
 import SearchBar from '../components/SearchBar';
 import RestaurantCard from '../components/RestaurantCard';
 import FiltersModal from '../components/FiltersModal';
@@ -27,18 +27,23 @@ export default function SearchScreen({ navigation }) {
   }, [query]);
 
   return (
-    <View style={{ flex: 1, paddingTop: insets.top + 12, paddingBottom: 0 }}>
+    <View className='flex-1 bg-purple-100'>
 
-      <View className="flex-1 bg-gray-50">
-        <SearchBar value={query} onChange={setQuery} onFocus={() => { }} />
-        <View className="mx-4 mt-2">
-          <Text className="text-sm text-gray-500">Filtros rápidos</Text>
-          <ScrollView
-            horizontal
-            showsHorizontalScrollIndicator={false}
-            className="mt-2"
-          >
-            <View className="flex-row">
+      <View style={{ flex: 1, paddingTop: insets.top + 12, paddingBottom: 0 }}>
+        <TouchableWithoutFeedback onPress={Keyboard.dismiss} accessible={false}>
+        <View className="flex-1 bg-transparent">
+
+          <View className="absolute inset-0 items-center justify-center">
+            <SearchBar
+              value={query}
+              onChangeText={setQuery}
+              size={{ width: '80%', height: 70, iconSize: 20, fontSize: 18 }}
+            />
+          </View>
+
+          <View className="mx-4 mt-2">
+            <Text className="text-sm text-gray-500">Filtros rápidos</Text>
+            <View className="mt-4 flex-row flex-wrap">
               {['Cerca de mí', 'Mayor rating', 'Menor precio'].map(chip => (
                 <TouchableOpacity
                   key={chip}
@@ -55,23 +60,17 @@ export default function SearchScreen({ navigation }) {
                 <Text>Filtros Avanzados</Text>
               </TouchableOpacity>
             </View>
-          </ScrollView>
+          </View>
+
+          <FiltersModal
+            visible={modalOpen}
+            initialFilters={filters}
+            onClose={() => setModalOpen(false)}
+            onApply={(newFilters) => { setFilters(newFilters); setModalOpen(false); }}
+          />
+
         </View>
-
-        <FlatList
-          data={results}
-          keyExtractor={(i) => i.id}
-          renderItem={({ item }) => <RestaurantCard item={item} onPress={() => navigation.navigate('Restaurant', { id: item.id })} />}
-          contentContainerStyle={{ padding: 16 }}
-          numColumns={1}
-        />
-
-        <FiltersModal
-        visible={modalOpen}
-        initialFilters={filters}
-        onClose={() => setModalOpen(false)}
-        onApply={(newFilters) => { setFilters(newFilters); setModalOpen(false); }}
-      />
+        </TouchableWithoutFeedback>
       </View>
     </View>
   );

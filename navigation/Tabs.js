@@ -5,6 +5,9 @@ import MapScreen from '../screens/MapScreen';
 import SearchScreen from '../screens/SearchScreen';
 import ProfileScreen from '../screens/ProfileScreen';
 import { FontAwesome5, MaterialIcons } from '@expo/vector-icons';
+import TestScreen from "../screens/TestScreen"
+import TestScreen2 from "../screens/TestScreen2"
+import TestScreen3 from "../screens/TestScreen3"
 
 const Tab = createBottomTabNavigator();
 
@@ -28,16 +31,26 @@ export default function Tabs() {
         component={MapScreen}
         options={{ tabBarIcon: ({ color }) => <FontAwesome5 name="map-marked-alt" size={20} color={color} /> }}
       />
-      <Tab.Screen 
+      {/* <Tab.Screen 
         name="Search" 
         component={SearchScreen}
         options={{ tabBarIcon: ({ color }) => <FontAwesome5 name="search" size={20} color={color} /> }}
-      />
-      <Tab.Screen 
+      /> */}
+      {/* <Tab.Screen 
         name="Profile" 
         component={ProfileScreen}
         options={{ tabBarIcon: ({ color }) => <FontAwesome5 name="user" size={20} color={color} /> }}
       />
+      <Tab.Screen 
+        name="Test1" 
+        component={TestScreen}
+        options={{ tabBarIcon: ({ color }) => <FontAwesome5 name="user" size={20} color={color} /> }}
+      />
+      <Tab.Screen 
+        name="Test2" 
+        component={TestScreen3}
+        options={{ tabBarIcon: ({ color }) => <FontAwesome5 name="user" size={20} color={color} /> }}
+      /> */}
     </Tab.Navigator>
   );
 }

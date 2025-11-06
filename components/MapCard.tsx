@@ -33,7 +33,7 @@ export default function MapCard({navigation}) {
               <View className="w-12 h-12 rounded-full overflow-hidden border-2 border-white bg-white shadow-md">
                 
                 <Image
-                  source={imageMap[r.name].pin}
+                  source={imageMap[r.name]?.pin}
                   className="w-full h-full"
                   resizeMode="cover"
                 />

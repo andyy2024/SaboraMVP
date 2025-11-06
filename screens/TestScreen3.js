@@ -33,7 +33,7 @@ export default function HomeScreen({ navigation }) {
 
       <View style={{ flex: 1, paddingTop: insets.top + 12, paddingBottom: insets.bottom }}>
 
-        <View className="items-center pb-6">
+        <View className="items-center pb-6 rounded-b-[20px]">
           <SearchBar value={query} onChange={setQuery} onFocus={() => { }} />
         </View>
 
@@ -86,20 +86,6 @@ export default function HomeScreen({ navigation }) {
               )}
               showsHorizontalScrollIndicator={false}
             />
-          </View>
-
-          <View className="mt-6 mx-4">
-            <Text className="text-lg font-semibold text-gray-800">Categorías populares</Text>
-            <View className="mt-4 flex-row flex-wrap">
-              {['Ramen', 'Vegano', 'Pet Friendly', 'Desayuno', 'Comida rápida', 'Cafetería'].map((c) => (
-                <TouchableOpacity
-                  key={c}
-                  className="px-4 py-2 mr-2 mb-2 bg-gray-100 rounded-full items-center justify-center"
-                >
-                  <Text className="text-sm font-medium text-gray-700">{c}</Text>
-                </TouchableOpacity>
-              ))}
-            </View>
           </View>
         </ScrollView>
       </View>
